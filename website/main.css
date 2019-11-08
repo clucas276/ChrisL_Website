@@ -1,0 +1,57 @@
+
+body {
+    background-image: url("mgsbackground.png");
+    background-position: middle;
+    background-attachment: fixed;
+}
+
+#references {
+    background-color: rgb(43, 53, 57, 0.9) ;
+    display: inline-block;
+    padding: 5px 5px 5px 5px; 
+    border: 2px solid black ;
+    color: white ;
+    text-align: left;
+}
+#ref_left {
+    text-align: left;
+    color: whitesmoke
+}
+*{
+    margin-left: 30px ;
+    margin-right: 30px ;
+    color: whitesmoke ;
+    text-align: center ;
+}
+
+h1 {
+    display: inline-flex ;
+    background-color: #2C3539 ;
+    padding: 10px 10px 10px 10px;
+    border: 2px solid black ;
+    color:whitesmoke;
+    font-size: 32px ; 
+}
+p {background-color: rgb(43, 53, 57, 0.9) ;
+    display: inline-flex;
+    padding: 10px 10px 10px 10px; 
+    border: 2px solid black ;
+    color: whitesmoke ;
+    font-size: 18px
+}
+h2 {
+    display: inline-flex ;
+    background-color: #2C3539 ;
+    padding: 10px 10px 10px 10px; 
+    border: 2px solid black ;
+    color: whitesmoke ;
+    font-size: 26px
+}
+h3 {
+    display: inline-block;
+    background-color: #2C3539 ;
+    padding: 10px 10px 10px 10px; 
+    border: 2px solid black ;
+    color:whitesmoke ;
+    font-size: 22px ;
+}
